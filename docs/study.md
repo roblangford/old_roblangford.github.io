@@ -3,7 +3,7 @@ layout: default
 title: Study
 nav_order: 1
 has_children: true
-permalink: /docs
+permalink: /docs/
 ---
 
 # Study
