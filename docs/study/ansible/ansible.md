@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ansible
-nav_order: 2
+nav_order: 30
 parent: Study
 #has_children: true
 permalink: /docs/study/ansible

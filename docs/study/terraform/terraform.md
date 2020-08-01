@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terraform
-nav_order: 2
+nav_order: 30
 parent: Study
 #has_children: true
 permalink: /docs/study/terraform

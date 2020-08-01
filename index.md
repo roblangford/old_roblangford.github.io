@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "This is my first attempt at a blog so go easy."
+description: "This is only my seventh? attempt at a blog so go easy."
 permalink: /
 ---
 
