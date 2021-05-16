@@ -16,4 +16,7 @@ Twitter: @TheRobLangford
 
 
 ## Getting started
-I
+I`m currently working on Infrastructure and Configuration Managememt using Terraform, Ansible, Chef and Ansible Tower. I'm primarily working in AWS Cloud Services, so most of my examples and test code will be focussed on this.
+
+I've got a few personal projects that focus on Raspberry Pi and electronics integration. These items may get published in my Github repo as I feel comfortable releasing them.
+
