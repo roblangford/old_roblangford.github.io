@@ -17,7 +17,7 @@ title: Rob Langford
 description: Personal Blog for Doco tracking
 #baseurl: "/just-the-docs/" # the subpath of your site, e.g. /blog
 #url: "https://pmarsceill.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://mrlangford.github.io"
+url: "https://roblangford.github.io"
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
