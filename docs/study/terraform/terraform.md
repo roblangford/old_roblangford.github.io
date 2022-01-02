@@ -14,7 +14,7 @@ I can certainly recommend checking out [Ned Bellavance](https://nedinthecloud.co
 
 ## Useful links
 
-[Terraform Docs](https://www.terraform.io/docs/index.html)
-[Hashicorp Learn](https://learn.hashicorp.com/terraform)
-[Ned Bellavance - Blog](https://nedinthecloud.com/)
-[Youtube - Ned in the Cloud](https://www.youtube.com/c/NedintheCloud/)
+- [Terraform Docs](https://www.terraform.io/docs/index.html)
+- [Hashicorp Learn](https://learn.hashicorp.com/terraform)
+- [Ned Bellavance - Blog](https://nedinthecloud.com/)
+- [Youtube - Ned in the Cloud](https://www.youtube.com/c/NedintheCloud/)
