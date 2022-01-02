@@ -38,3 +38,4 @@ color_scheme: dark
 # ga_tracking: UA-2709176-10
 
 theme: jekyll-theme-architect
+markdown: kramdown
