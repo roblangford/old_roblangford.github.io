@@ -33,7 +33,15 @@ Reducing costs are a two fold benefit, by not spending time deploying and fixing
 
 ## Disadvantages
 
-Commitment to a standard and potentially a barrier to entry for existing staff. You'll need to train and educate your existing staff.
+Total commitment to a standard and complete agreement to only use DevOps practices to maintain moving forward. This doesnt appear on the face of it to be a disadvange however it relies on a team that is in agreement and adherance moving forward. Training will make this easier barrier to entry for existing staff however the descision of those who don't wish to work in this new way will nneed to be redirected to other areas or moved on all together.
+
+## Other Considerations
+
+When an operations team seeks to adopt these new practices you are in essence doubling your workload. You now not only need to deploy and configure the same servers. You now need to maintain a code base, and work on automation of the other areas.
+Depending on how work arrives and requests are raised you may need to adopt a software development practice such as Agile or Kaban to plan and manage the mainenance of the new code.
 
 ## Useful links
 
+[Atlassian - What is DevOps](https://www.atlassian.com/devops/what-is-devops)
+[Microsoft Infrastructure as Code](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-as-code)
+[Top10 Infrastructure As Code tools 2021](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-as-code)
