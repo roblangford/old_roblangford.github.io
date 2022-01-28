@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Infrastructure as Code
-nav_order: 40
+nav_order: 10
 parent: DevOps
 #has_children: true
 permalink: /docs/study/devops/iac

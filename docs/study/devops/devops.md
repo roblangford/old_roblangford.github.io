@@ -3,7 +3,7 @@ layout: default
 title: DevOps
 nav_order: 30
 parent: Study
-#has_children: true
+has_children: true
 permalink: /docs/study/devops
 published: true
 ---
