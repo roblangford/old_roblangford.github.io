@@ -5,7 +5,7 @@ nav_order: 30
 parent: DevOps
 #has_children: true
 permalink: /docs/study/devops/iac
-published: false
+published: true
 ---
 
 # Infrastructure As Code
@@ -42,6 +42,5 @@ Depending on how work arrives and requests are raised you may need to adopt a so
 
 ## Useful links
 
-[Atlassian - What is DevOps](https://www.atlassian.com/devops/what-is-devops)
 [Microsoft Infrastructure as Code](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-as-code)
 [Top10 Infrastructure As Code tools 2021](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-as-code)

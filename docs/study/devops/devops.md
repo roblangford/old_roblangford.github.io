@@ -5,7 +5,7 @@ nav_order: 30
 parent: Study
 #has_children: true
 permalink: /docs/study/devops
-published: false
+published: true
 ---
 
 # DevOps
@@ -28,7 +28,4 @@ When reviewing our needs and capabilities we looked at our existing code base (A
 
 ## Useful links
 
-- [Terraform Docs](https://www.terraform.io/docs/index.html)
-- [Hashicorp Learn](https://learn.hashicorp.com/terraform)
-- [Ned Bellavance - Blog](https://nedinthecloud.com/)
-- [Youtube - Ned in the Cloud](https://www.youtube.com/c/NedintheCloud/)
+- [Atlassian - What is DevOps](https://www.atlassian.com/devops/what-is-devops)
